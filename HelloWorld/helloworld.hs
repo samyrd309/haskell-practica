@@ -1,2 +1,3 @@
 main = do
-  putStrLn "Hello world"
+  putStrLn "Hello World"
+  return()
